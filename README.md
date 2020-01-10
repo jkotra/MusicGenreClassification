@@ -17,6 +17,12 @@ Alternatively, you can use [NBviewer](https://nbviewer.jupyter.org/) for better 
 
 ## prerequisites
 
+### Dataset
+
+Download [GTZAN genre collection](http://marsyas.info/downloads/datasets.html)
+
+---
+
 [Conda](https://www.anaconda.com/) environment is saved to `environment.yml`
 
 ```bash
