@@ -12,7 +12,7 @@ collection of [Jupyter notebooks](https://jupyter.org/) all about detection and 
 
 [Music Genre Classification MFCC]( 	MusicGenreClassification_MFCC.ipynb)
 
-Alternatively, you can use [NBviewer] for better compatibility with tqdm widgets.(https://nbviewer.jupyter.org/)
+Alternatively, you can use [NBviewer](https://nbviewer.jupyter.org/) for better compatibility with tqdm widgets.
 
 
 ## prerequisites
