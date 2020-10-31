@@ -25,11 +25,8 @@ Download [GTZAN genre collection](http://marsyas.info/downloads/datasets.html)
 
 ---
 
-[Conda](https://www.anaconda.com/) environment is saved to `environment.yml`
+[Conda](https://www.anaconda.com/) environment is saved to `spec-file.txt`
 
-```bash
-conda env create -f environment.yml
-```
 
 ## References
 
