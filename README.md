@@ -8,9 +8,11 @@ collection of [Jupyter notebooks](https://jupyter.org/) all about detection and 
 
 </div>
 
-[Music Genre Classification using MelSpectrogram]( 	MusicGenreClassification_melspectrogram.ipynb)
+[Music Genre Classification using MelSpectrogram](MusicGenreClassification_melspectrogram.ipynb)
 
-[Music Genre Classification MFCC]( 	MusicGenreClassification_MFCC.ipynb)
+[Music Genre Classification MFCC](MusicGenreClassification_MFCC.ipynb)
+
+[Music Genre Classification Feature Ensemble](MusicGenreClassification_FeatureEnsemble.ipynb)
 
 Alternatively, you can use [NBviewer](https://nbviewer.jupyter.org/) for better compatibility with tqdm widgets.
 
